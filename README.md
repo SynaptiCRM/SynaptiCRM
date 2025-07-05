@@ -1,16 +1,41 @@
-## Hi there 👋
+# Привіт, я Олег Драб 👋
 
-<!--
-**SynaptiCRM/SynaptiCRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Початок мого шляху в розробці
 
-Here are some ideas to get you started:
+Моя мета — створити власні проекти, вчитися на практиці та розвиватися щодня.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Працюю над невеликими навчальними проєктами
+- 🎯 Прагну стати професіоналом у розробці CRM-систем
+
+## 🛠️ Стек технологій, які я вивчаю:
+- C#
+- .NET
+- Visual Studio Code
+- Git та GitHub
+
+## 🏂 Хобі та інтереси
+- Сноуборд 🎿
+- Подорожі ✈️
+- Кіно 🎬
+
+---
+
+# Hello, I’m Oleh Drab 👋
+
+## 🌱 Starting My Developer Journey
+
+My goal is to build real projects, learn by doing, and grow every day.
+
+- 💻 Working on small educational projects
+- 🎯 Aim to become a CRM systems development expert
+
+## 🛠️ Tech stack I’m learning:
+- C#
+- .NET
+- Visual Studio Code
+- Git and GitHub
+
+## 🏂 Hobbies & Interests
+- Snowboarding 🎿
+- Traveling ✈️
+- Cinema 🎬
